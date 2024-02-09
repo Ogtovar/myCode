@@ -13,7 +13,7 @@ def main():
         # get user input 
         user_input = input("Would you like to know your Birthstone? Yes/No ")
         # ask for the month and print out the responce
-        #TODO and reponse for a not valid input/month
+        #TODO add reponse for a not valid input/month
         if user_input == "Yes":
             month = input("In what month were you born? ")
             print(f"Your birthstone for the month of {month} is {stones.get(month)}")
