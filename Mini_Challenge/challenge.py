@@ -7,7 +7,7 @@ def main():
 
     #TODO minimize all input to make program more rubust 
     # welcome the user
-    print("Welcome to the birthone generator!")
+    print("Welcome to the birthstone generator!")
     # loop to prompt the user
     while True:
         # get user input 
